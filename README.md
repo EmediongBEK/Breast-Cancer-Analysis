@@ -30,7 +30,7 @@ Sensitive patient identifiers were removed to maintain confidentiality.
 - **Statistical Analysis** – KPI computation and summary insights  
 
 
- Analysis Summary  
+ **Analysis Summary** 
 
 **Surgery Type Distribution**  
 - The **“Other”** category recorded the highest number of patients (**105**).  
